@@ -1,3 +1,4 @@
+// +build linux
 /*
  * notify.go for go-notify
  * by lenorm_f
